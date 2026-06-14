@@ -1,4 +1,4 @@
-# SQL-CODING-CHALLENGE-JOINS-BUILD[SQL Day 5 Coding Challenge.docx](https://github.com/user-attachments/files/28931385/SQL.Day.5.Coding.Challenge.docx)
+# SQL-CODING-CHALLENGE-JOINS-BUILD
 IN-FUNTION
 MySQL coding challenges covering SQL joins, built-in functions, and data analysis queries for database management and interview preparation.
 
