@@ -1,4 +1,4 @@
-# SQL-CODING-CHALLENGE-JOINS-BUILD
+# SQL-Coding-Challenge-Joins-Build
 IN-FUNTION
 MySQL coding challenges covering SQL joins, built-in functions, and data analysis queries for database management and interview preparation.
 
